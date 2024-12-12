@@ -1,0 +1,66 @@
+﻿  Box.cpp
+  Controller.cpp
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Controller.cpp'을(를) 컴파일하는 중)
+  
+  Parent Room.cpp
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Parent%20Room.cpp'을(를) 컴파일하는 중)
+  
+  Room0.cpp
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Room0.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Room0.cpp(218,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Room1.cpp
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Room1.cpp'을(를) 컴파일하는 중)
+  
+  Room2.cpp
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Room2.cpp'을(를) 컴파일하는 중)
+  
+  Room3.cpp
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Room3.cpp'을(를) 컴파일하는 중)
+  
+  Room4.cpp
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Room4.cpp'을(를) 컴파일하는 중)
+  
+  Room5.cpp
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Room5.cpp'을(를) 컴파일하는 중)
+  
+  Room6.cpp
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Room6.cpp'을(를) 컴파일하는 중)
+  
+  Room7.cpp
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Room7.cpp'을(를) 컴파일하는 중)
+  
+  Room8.cpp
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Room8.cpp'을(를) 컴파일하는 중)
+  
+  View.cpp
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Consola.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'View.cpp'을(를) 컴파일하는 중)
+  
+  main.cpp
+  코드를 생성하고 있습니다...
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Room8.cpp(318,1): warning C4172: 지역 변수 또는 임시 : b의 주소를 반환하는 중
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Room7.cpp(159,1): warning C4172: 지역 변수 또는 임시 : b의 주소를 반환하는 중
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Room6.cpp(111,1): warning C4172: 지역 변수 또는 임시 : b의 주소를 반환하는 중
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Room5.cpp(136,1): warning C4172: 지역 변수 또는 임시 : b의 주소를 반환하는 중
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Room5.cpp(141,1): warning C4172: 지역 변수 또는 임시 : b의 주소를 반환하는 중
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Room5.cpp(145,1): warning C4172: 지역 변수 또는 임시 : b의 주소를 반환하는 중
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Room4.cpp(149,1): warning C4172: 지역 변수 또는 임시 : b의 주소를 반환하는 중
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Room3.cpp(90,1): warning C4172: 지역 변수 또는 임시 : b의 주소를 반환하는 중
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Room2.cpp(210,1): warning C4172: 지역 변수 또는 임시 : b의 주소를 반환하는 중
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Room2.cpp(214,1): warning C4172: 지역 변수 또는 임시 : b의 주소를 반환하는 중
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Room1.cpp(114,1): warning C4172: 지역 변수 또는 임시 : b의 주소를 반환하는 중
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Room0.cpp(153,1): warning C4172: 지역 변수 또는 임시 : b의 주소를 반환하는 중
+C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\객체지향_final project\Room0.cpp(157,1): warning C4172: 지역 변수 또는 임시 : b의 주소를 반환하는 중
+  객체지향_final project.vcxproj -> C:\Users\관리자\Desktop\CppWorks\Final Project\객체지향_final project_최종\Debug\객체지향_final project.exe
