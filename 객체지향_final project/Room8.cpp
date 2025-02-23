@@ -98,7 +98,7 @@ void Room8::eventObstacleFunc() {
 		if (remainChance == 0) {
 			isInRoom = false;
 			View::clearAllText();
-			// 
+
 			paintEndPage(false);
 		}
 	}
